@@ -1,4 +1,4 @@
-@media  (min-width: 375px) and (max-width: 1440px) {
+
     body{
         background-color: hsl(0, 0%, 95%);
     }
@@ -90,5 +90,4 @@
     color: white;
     }
       
-}
 
